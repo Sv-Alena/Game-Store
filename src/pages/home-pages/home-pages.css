@@ -1,0 +1,5 @@
+.home-pages{
+    display: flex;
+    flex-wrap: wrap;
+}
+

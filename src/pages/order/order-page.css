@@ -1,0 +1,10 @@
+
+ .order-page_total-price{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+ }
+
+ .order-page_total-price p{
+    margin-right:25px ;
+ }

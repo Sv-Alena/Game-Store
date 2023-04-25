@@ -1,0 +1,23 @@
+.header{
+    height: 80px;
+    margin-bottom: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.wrapper{
+    display: flex;
+    flex-grow: 1;
+}
+
+.header_cart-btn-wrapper{
+    justify-content: flex-end;
+}
+
+.header_store-wrapper{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}

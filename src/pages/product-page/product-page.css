@@ -1,0 +1,30 @@
+.product-page_content{
+    display: flex;
+}
+
+.product-page_left{
+    width: 70%;
+}
+.product-page_right{
+    width: 30%;
+}
+.product-page_buy-product{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+}
+
+
+.product-page_image {
+    height: 170px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.secondary-text{
+    font-size: 15px;
+    color: rgb(105, 104, 104)
+}
