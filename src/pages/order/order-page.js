@@ -28,7 +28,6 @@ export const OrderPage = () => {
             Оплатить заказ
           </Button>
           </div>
-
         </div>
       </div>
     </div>

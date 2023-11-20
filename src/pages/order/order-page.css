@@ -8,3 +8,10 @@
  .order-page_total-price p{
     margin-right:25px ;
  }
+
+ @media all and ( max-width: 500px){
+   .order-item{
+      display: flex;
+      flex-direction: column;
+   }
+    }
